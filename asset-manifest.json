@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MartynLazarewicz/goit-react-hw-06-phonebook/static/css/main.a3eb663c.css",
+    "main.js": "/MartynLazarewicz/goit-react-hw-06-phonebook/static/js/main.fc2886a5.js",
+    "index.html": "/MartynLazarewicz/goit-react-hw-06-phonebook/index.html",
+    "static/media/cross.svg": "/MartynLazarewicz/goit-react-hw-06-phonebook/static/media/cross.d5ab96da0d54fcdcdcde3e1f38b2c478.svg",
+    "static/media/address-book.svg": "/MartynLazarewicz/goit-react-hw-06-phonebook/static/media/address-book.440464a8f2c2eab05ade28ee1a3a5e8e.svg",
+    "main.a3eb663c.css.map": "/MartynLazarewicz/goit-react-hw-06-phonebook/static/css/main.a3eb663c.css.map",
+    "main.fc2886a5.js.map": "/MartynLazarewicz/goit-react-hw-06-phonebook/static/js/main.fc2886a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3eb663c.css",
+    "static/js/main.fc2886a5.js"
+  ]
+}
